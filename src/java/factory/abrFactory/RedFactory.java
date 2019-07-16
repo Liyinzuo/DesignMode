@@ -13,6 +13,6 @@ public class RedFactory implements AbstractFactory {
             return new RedCat();
         } else {
             return null;
-        };
+        }
     }
 }
