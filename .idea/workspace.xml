@@ -3,6 +3,78 @@
   <component name="ChangeListManager">
     <list default="true" id="3ba11543-884f-4e7f-a0e4-ad9d8b22bc87" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BlueChinken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BlueChinken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/BlueChinken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BlueDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BlueDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/BlueDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BuleCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BuleCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/BuleCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BuleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/BuleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/BuleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/RedCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedChicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedChicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/RedChicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/RedDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/abstractFactory/RedFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BlueChinken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BlueChinken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/BlueChinken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BlueDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BlueDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/BlueDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BuleCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BuleCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/BuleCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BuleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/BuleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/BuleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/FactoryMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/FactoryMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/RedCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedChicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedChicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/RedChicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/RedDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/factoryMethod/RedFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/factoryMethod/RedFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/simpleFactory/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/simpleFactory/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/simpleFactory/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/simpleFactory/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/SimpleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/factory/simpleFactory/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/factory/simpleFactory/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/Singleton8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Singleton8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/单例模式" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/singleton/单例模式" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/单例模式" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,62 +86,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FactoryMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/FactoryMethod.java">
+      <file leaf-file-name="Zoo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/Zoo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java">
+      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/AbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="160">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BuleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/BuleFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BuleFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="32">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuleFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BuleFactory.java">
+      <file leaf-file-name="RedFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="32">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedCat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedCat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RedChicken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedChicken.java">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedChicken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BlueDog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BlueDog.java">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BlueDog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuleCat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BuleCat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -78,28 +159,19 @@
         </entry>
       </file>
       <file leaf-file-name="BlueChinken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BlueChinken.java">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BlueChinken.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedChicken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedChicken.java">
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="96">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -151,10 +223,16 @@
         <option value="$PROJECT_DIR$/src/java/factory/factoryMethod/BuleFactory.java" />
         <option value="$PROJECT_DIR$/src/java/factory/abrFactory/Abstract.java" />
         <option value="$PROJECT_DIR$/src/java/factory/abrFactory/RedChicken.java" />
-        <option value="$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java" />
         <option value="$PROJECT_DIR$/src/java/factory/factoryMethod/RedFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/factory/abrFactory/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/java/factory/abrFactory/BuleFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/factory/abstract111/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/factoryMode/factory/abstract111/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/factoryMode/factory/abstractFactory/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/java/factory/abstractFactory/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/main/factory/abstractFactory/Zoo.java" />
       </list>
     </option>
   </component>
@@ -198,30 +276,7 @@
               <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abrFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +321,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zoo (1)">
+    <configuration name="Zoo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.factory.abstractFactory.Zoo" />
+      <module name="DesignMode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.factory.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.factory.abstract111.Zoo" />
+      <module name="DesignMode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.factory.abstract111.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.factory.abstractFactory.Zoo" />
+      <module name="DesignMode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.factory.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -308,6 +396,17 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Zoo" />
+      <item itemvalue="Application.Zoo (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zoo (1)" />
+        <item itemvalue="Application.Zoo (1)" />
+        <item itemvalue="Application.Zoo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,12 +420,12 @@
       <updated>1563087064430</updated>
       <workItem from="1563087069677" duration="13988000" />
       <workItem from="1563198259333" duration="3653000" />
-      <workItem from="1563275131601" duration="1027000" />
+      <workItem from="1563275131601" duration="2840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18668000" />
+    <option name="totallyTimeSpent" value="20481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -334,6 +433,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -341,8 +441,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
@@ -368,56 +468,49 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/FactoryMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/FactoryMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" selection-start-line="10" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="2" selection-start-line="11" selection-end-line="31" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="1" />
@@ -431,21 +524,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton8.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
@@ -453,14 +546,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/singleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/单例模式">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/单例模式">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -474,153 +567,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="2" selection-start-line="11" selection-end-line="31" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" selection-start-line="10" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/singleton/Singleton8.java">
+    <entry file="file://$PROJECT_DIR$/src/main/singleton/Singleton8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/simpleFactory/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/simpleFactory/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/simpleFactory/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/simpleFactory/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/simpleFactory/Chicken.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/simpleFactory/Chicken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/simpleFactory/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/simpleFactory/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/simpleFactory/SimpleFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/simpleFactory/SimpleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/Animal.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedDog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/RedDog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedCat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/RedCat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/BuleCat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/BuleCat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/BlueDog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/BlueDog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/BlueChinken.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/BlueChinken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedDog.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/Animal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BuleCat.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedCat.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/FactoryMethod.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -629,73 +722,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/FactoryMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/FactoryMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedChicken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/RedFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BlueDog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedChicken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/factoryMethod/BuleFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/BuleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/RedFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BlueChinken.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/RedChicken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/factory/abrFactory/BuleFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/factory/factoryMethod/RedFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedChicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BlueDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BuleCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BlueChinken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/BuleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/RedFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/factory/abstractFactory/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
